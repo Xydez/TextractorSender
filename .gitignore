@@ -443,3 +443,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+CMakeUserPresets.json
